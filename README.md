@@ -5,6 +5,7 @@ Student Name: Madhav Maharia
 Student ID: 35633154
 Project Title: Travel Blog Website – travel-madhav.online
 https://travel-madhav.online/
+travel-madhav.online
 
 Project Description
 As part of my cloud server assignment, I developed a travel-focused blog website using WordPress, deployed on an Ubuntu-based EC2 instance.Additionally, I registered a domain name, connected it to the server through DNS, and secured the entire site using SSL/TLS encryption via Certbot.
